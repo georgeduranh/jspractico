@@ -13,3 +13,10 @@
 - Segundo paso: implementar formulas en JS
 - Tercer paso: crear funciones
 - Cuarto paso: integrar JS con HTML
+
+## Taller 3 : promedio, mediana, moda
+
+- Primer paso: definir las fórmulas
+- Segundo paso: implementar formulas en JS
+- Tercer paso: crear funciones
+- Cuarto paso: integrar JS con HTML
